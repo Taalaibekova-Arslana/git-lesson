@@ -1,0 +1,14 @@
+.App {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
